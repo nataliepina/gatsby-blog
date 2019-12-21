@@ -4,8 +4,8 @@ import { Button } from '../components/button'
 
 export default () => (
   <Layout>
-    <h1>Hi, Welcome!</h1>
-    <h2>This is the home page</h2>
+    <h1>Welcome!</h1>
+    <h2>Home</h2>
     <Button>Styled Component Button</Button>
   </Layout>
 )

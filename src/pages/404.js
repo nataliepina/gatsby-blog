@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 
 const Error = () => (
   <Layout>
-    This is our error page
+    Error
   </Layout>
 )
 
